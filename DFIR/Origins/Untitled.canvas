@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"1a2eef3df2b4afff","x":-800,"y":-360,"width":939,"height":360,"type":"file","file":"Pasted image 20250506133604.png"},
+		{"id":"45d9f37bb7a2578f","x":-870,"y":880,"width":1080,"height":584,"type":"file","file":"Pasted image 20250506140419.png"},
+		{"id":"7e6bb9f98abdf711","x":-870,"y":1820,"width":1080,"height":270,"type":"file","file":"Pasted image 20250506140828.png"},
+		{"id":"bcedb6f9288bc429","x":-849,"y":2140,"width":1039,"height":100,"color":"4","type":"file","file":"Pasted image 20250506140847.png"},
+		{"id":"f2b81b19938ba04a","x":-857,"y":1500,"width":1055,"height":120,"color":"4","type":"file","file":"Pasted image 20250506140435.png"},
+		{"id":"7108e2a696a79ffb","x":-870,"y":40,"width":1080,"height":485,"type":"file","file":"Pasted image 20250506135425.png"},
+		{"id":"7b6cd9b4fd247bfc","x":-828,"y":560,"width":997,"height":100,"color":"4","type":"file","file":"Pasted image 20250506135446.png"},
+		{"id":"fc156e4a6d3177d5","x":-870,"y":2380,"width":1080,"height":518,"type":"file","file":"Pasted image 20250506141922.png"},
+		{"id":"ac1fec600b10415a","x":-800,"y":2960,"width":940,"height":119,"color":"4","type":"file","file":"Pasted image 20250506141934.png"},
+		{"id":"a81a631684790701","x":-870,"y":3180,"width":1080,"height":700,"type":"file","file":"Pasted image 20250506143005.png"},
+		{"id":"849789dd87942d3c","x":-822,"y":3940,"width":984,"height":108,"color":"4","type":"file","file":"Pasted image 20250506143016.png"},
+		{"id":"371dce5eff2ea5ad","x":-822,"y":4180,"width":522,"height":100,"type":"text","text":" we need to export the files exfiltrated by the attacker. Therefore, navigate to File → Export Objects → FTP-DATA, and choose Save All."},
+		{"id":"ab08c4206b8753b5","x":-822,"y":4360,"width":984,"height":588,"type":"file","file":"Pasted image 20250506153104.png"},
+		{"id":"faad4bbb4774bb1f","x":-911,"y":5000,"width":1162,"height":147,"color":"4","type":"file","file":"Pasted image 20250506153206.png"},
+		{"id":"9da02de9c3f68be4","x":-758,"y":5280,"width":920,"height":603,"type":"file","file":"Pasted image 20250506153259.png"},
+		{"id":"1fd354363ef557cf","x":-902,"y":5940,"width":1209,"height":120,"color":"4","type":"file","file":"Pasted image 20250506153331.png"},
+		{"id":"d664100a8cdb667e","x":-758,"y":6140,"width":920,"height":483,"type":"file","file":"Pasted image 20250506153408.png"},
+		{"id":"a02a3bcaf8101fa1","x":-787,"y":6700,"width":978,"height":874,"color":"4","type":"file","file":"Pasted image 20250506153438.png"},
+		{"id":"8b5f48bd57473f71","x":240,"y":6292,"width":1395,"height":180,"color":"4","type":"file","file":"Pasted image 20250506153502.png"}
+	],
+	"edges":[
+		{"id":"a36271a29fd29aad","fromNode":"1a2eef3df2b4afff","fromSide":"bottom","toNode":"7108e2a696a79ffb","toSide":"top"},
+		{"id":"ad20165ea05a5863","fromNode":"7108e2a696a79ffb","fromSide":"bottom","toNode":"7b6cd9b4fd247bfc","toSide":"top"},
+		{"id":"6319a1e15b93cfdc","fromNode":"45d9f37bb7a2578f","fromSide":"bottom","toNode":"f2b81b19938ba04a","toSide":"top"},
+		{"id":"195dfd9986d91ec4","fromNode":"7e6bb9f98abdf711","fromSide":"bottom","toNode":"bcedb6f9288bc429","toSide":"top"},
+		{"id":"223aa2a2a6ed9156","fromNode":"fc156e4a6d3177d5","fromSide":"bottom","toNode":"ac1fec600b10415a","toSide":"top"},
+		{"id":"173e985eb5d793d8","fromNode":"a81a631684790701","fromSide":"bottom","toNode":"849789dd87942d3c","toSide":"top"},
+		{"id":"42558616a9b8e30a","fromNode":"371dce5eff2ea5ad","fromSide":"bottom","toNode":"ab08c4206b8753b5","toSide":"top"},
+		{"id":"95af17519eac7a4c","fromNode":"ab08c4206b8753b5","fromSide":"bottom","toNode":"faad4bbb4774bb1f","toSide":"top"},
+		{"id":"5035142f7440bb41","fromNode":"9da02de9c3f68be4","fromSide":"bottom","toNode":"1fd354363ef557cf","toSide":"top"},
+		{"id":"8d2314ad24a05f60","fromNode":"d664100a8cdb667e","fromSide":"bottom","toNode":"a02a3bcaf8101fa1","toSide":"top"},
+		{"id":"9b92ab91a3fa386f","fromNode":"d664100a8cdb667e","fromSide":"right","toNode":"8b5f48bd57473f71","toSide":"left"}
+	]
+}
